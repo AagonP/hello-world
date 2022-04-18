@@ -1,3 +1,3 @@
 # Hello world!
-First repository
+First repository.
 Everybody has one.
